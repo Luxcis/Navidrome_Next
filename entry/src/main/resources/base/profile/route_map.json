@@ -1,0 +1,9 @@
+{
+  "routerMap": [
+    {
+      "name": "Setting",
+      "pageSourceFile": "src/main/ets/pages/view/Setting.ets",
+      "buildFunction": "SettingBuilder"
+    }
+  ]
+}
